@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  
+  
+  
+  
+  
+}
+.movieApp{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0 200px;
+ 
+    
+}
+.filterPart{
+  display: flex;
+
+  justify-content: center;
+  justify-content: space-around;
+  /* align-items: center; */
+  background-color: black;
+
+
+  padding: 10px 0px;
+  /* border-radius: 20px; */
+}
+/* 
+.listes-Movies{
+ 
+  
+  display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 10%;
+    flex-wrap: wrap;
+}
+.card-film{
+  background-color: black !important;
+}
+
+.imageFilm{
+ 
+  height: 350px;
+  
+} */
